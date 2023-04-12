@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">10120228Latihan1</string>
+    <string name="nama">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="pekerjaan">UI Designer</string>
+    <string name="slogan">Digital Together Everyone Achieve More</string>
+    <string name="jds">Jabar Digital Service</string>
+    <string name="laporan">Laporan Kamu</string>
+    <string name="maret">MARET</string>
+    <string name="april">APRIL</string>
+    <string name="jam_kerja_bulanan">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="batas_minimum_jam">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="heading_jam">Jam Kerja Bulan Ini</string>
+</resources>
